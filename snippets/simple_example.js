@@ -5,7 +5,6 @@ var m1 = new menu({name: 'item1'});
 m1.addNode("nan", function(){ console.log("nan")});
 m1.addNode("pp", function(){ 
   m1.modifyNode("pp", undefined, {style: {color: "white", backgroundColor: "black"}});
-  console.log(m1._nodes[1].opts.style);
   m1.render();
 }, {style: {color: "red", backgroundColor: "orange"}});
 m1.render();
