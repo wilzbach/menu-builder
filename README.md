@@ -22,9 +22,11 @@ var m1 = new menu({name: 'item1', el: yourDiv});
 
 See the [registry](http://registry.biojs.net/client/#/detail/menu-builder) for a demo.
 
+(Don't forget to embed the css `css/menu.css`)
+
 ## Contributing
 
-Please submit all issues and pull requests to the [greenify/biojs-util-menu](http://github.com/greenify/menu-builder) repository.
+Please submit all issues and pull requests to the [greenify/menu-builder](http://github.com/greenify/menu-builder) repository.
 
 ## Support
 If you have any problem or suggestion please open an issue [here](https://github.com/greenify/menu-builder/issues).

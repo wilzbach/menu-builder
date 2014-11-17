@@ -1,4 +1,4 @@
-.s-menubar .s-menubar_alink {
+.smenubar .smenubar_alink {
 	background: #3498db;
 	background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
 	background-image: -moz-linear-gradient(top, #3498db, #2980b9);
@@ -14,11 +14,11 @@
 	margin-left: 10px;
 	text-decoration: none;
 }
-.s-menubar {
+.smenubar {
     display: inline-block;
 }
 
-.s-menubar .s-menubar_alink:hover {
+.smenubar .smenubar_alink:hover {
 	cursor: pointer;
 }
 
