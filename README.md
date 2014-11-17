@@ -24,6 +24,10 @@ See the [registry](http://registry.biojs.net/client/#/detail/menu-builder) for a
 
 (Don't forget to embed the css `css/menu.css`)
 
+## Examples in applications
+
+* [biojs-vis-msa](https://github.com/greenify/biojs-vis-msa/tree/master/src/menu/views)
+
 ## Contributing
 
 Please submit all issues and pull requests to the [greenify/menu-builder](http://github.com/greenify/menu-builder) repository.
