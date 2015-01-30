@@ -20,7 +20,7 @@ You can either get DOM node by `m1.el` or pass it:
 var m1 = new menu({name: 'item1', el: yourDiv});
 ```
 
-See the [registry](http://registry.biojs.net/client/#/detail/menu-builder) for a demo.
+See the [registry](http://biojs.io/d/menu-builder) for a demo.
 
 (Don't forget to embed the css `css/menu.css`)
 
